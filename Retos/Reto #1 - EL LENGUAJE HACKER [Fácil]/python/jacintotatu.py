@@ -55,8 +55,8 @@ for i in pon_algo:
     if i in diccionario:
         traduccion += diccionario[i]
 
-else:
+    else:
 
-    traduccion += ''
+        traduccion += ''
 
 print(traduccion)
